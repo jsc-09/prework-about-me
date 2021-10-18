@@ -1,7 +1,7 @@
 body {
     color: #222222;
     font-size: 1em;
-    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-family: "Abhaya Libre", "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 .content-footer,
@@ -12,7 +12,7 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('../img/code.jpg');
+  background-image: url('../img/mountain.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -20,7 +20,7 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
-    color: #ffffff;
+    color: rgb(232, 250, 244);
 }
 
 .masthead-heading {
@@ -29,7 +29,7 @@ body {
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: rgb(232, 250, 244);
 }
 
 .details {
